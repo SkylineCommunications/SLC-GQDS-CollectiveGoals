@@ -1,1 +1,1 @@
-# SLC-GQDS-CollectiveGoals
+# SLC-GQIDS-CollectiveGoals
